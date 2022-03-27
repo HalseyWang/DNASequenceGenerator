@@ -106,13 +106,13 @@ def isinarray(array, line):
     return False
 
 
-def gendna(x):
+def gendna(base):
     return {
         0: 'A',
         1: 'C',
         2: 'G',
         3: 'T'
-    }[x]
+    }[base]
 
 
 if __name__ == "__main__":
