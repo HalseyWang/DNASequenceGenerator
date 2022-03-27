@@ -11,7 +11,6 @@ A small example of generating a random DNA sequence with a sequence length of 52
 >python main<span></span>.py 200 52 52
 
 ### Filter Pattern
-
     darry = ["TTTT",
              "AAAA",
              "CCCC",
@@ -39,8 +38,7 @@ A small example of generating a random DNA sequence with a sequence length of 52
              "AATTGCAATT",
              "GGCCATGGCC",
              ]
-
-
+             
 ### Example Output
 #### unfiltered sequence
 GAGAATCCTCCGCGTTCTTGGGGAAATTCTACATGTTCCCCCAGTTCGACAA
