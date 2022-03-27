@@ -1,5 +1,5 @@
-# DNA-sequence-generator-and-filter
-Generation filter for random DNA sequences. The output is unfiltered TXT and filtered CSV formatted files containing sequences and their headers. These sequences are divided into a series of 300-character lines by specification. The title of the sequence can be customized.
+# DNA-sequence-generator-and-filter for programmable assembly of single-stranded DNA
+Generation filter for random DNA sequences. The output is unfiltered TXT and filtered CSV formatted files containing sequences and their headers. These sequences are divided into a series of 300-character lines by specification. The title of the sequence can be customized. The resulting sequences are used for programmable assembly of single-stranded DNA. It has been experimentally verified and is reliable.
 
 ## Input
 >python main<span></span>.py \<seqnum> \<seqlengthstart> \<seqlengthend>
