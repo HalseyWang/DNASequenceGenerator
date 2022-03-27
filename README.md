@@ -2,7 +2,7 @@
 Generation filter for random DNA sequences. The output is unfiltered TXT and filtered CSV formatted files containing sequences and their headers. These sequences are divided into a series of 300-character lines by specification. The title of the sequence can be customized.
 
 ## Input
->python main<span></span>.py \<sequenceNumber> \<sequenceLengthStart> \<sequenceLengthEnd>
+>python main<span></span>.py \<seqnum> \<seqlengthstart> \<seqlengthend>
 
 ## Example
 A small example of generating a random DNA sequence with a sequence length of 52.
